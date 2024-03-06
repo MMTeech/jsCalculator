@@ -1,0 +1,50 @@
+body {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cal-container {
+    margin-top: 50px;
+    padding: 10px 20px;
+}
+
+input[type='text'] {
+    color: #333;
+    background-color: #FCFCFC;
+    width: 99%;
+    margin-bottom: 3px;
+}
+
+button {
+    width: 24%;
+    font-weight: 400;
+    margin-bottom: 1px;
+    transition: all .3s ease-in-out;
+}
+
+button:hover{
+	color: #333;
+	background-color: #fff;
+}
+
+
+#equal {
+    width: 49%;
+    background-color: #387ADF;
+}
+
+#equal:hover{
+	color: #fff;
+}
+
+#clear{
+    width: 49%;
+	color: #fff;
+    background-color: #FBA834;
+}
+
+.blue-color{
+	background-color: #2b2e35;
+}
+
